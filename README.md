@@ -7,11 +7,11 @@ This repository serves as a record of my personal challenges on Kaggle, where I 
 
 # Current Projects
 Here's a list of projects I have tackled to date (📊 and 🤖 denote whether the project contains Statistical Analysis and/or Modeling, respectively):
-
+1.  TBA
 
 # Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
 📧 Mail: klopfenstein.laurent@hotmail.de
 
-🌐LinkedIn: https://www.linkedin.com/in/laurent-klopfenstein/
+🌐LinkedIn: [Laurent Klopfenstein](https://www.linkedin.com/in/laurent-klopfenstein/)
